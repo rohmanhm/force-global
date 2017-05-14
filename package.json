@@ -1,0 +1,29 @@
+{
+  "name": "force-global",
+  "description": "Force place your module into global if possible",
+  "version": "0.0.1",
+  "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:rohmanhm/force-global"
+  },
+  "keywords": [
+    "global",
+    "window",
+    "self",
+    "node",
+    "javascript",
+    "typescript",
+    "force"
+  ],
+  "author": {
+    "name": "M Habib Rohman",
+    "email": "mhrohman@live.com",
+    "url": "https://github.com/rohmanhm"
+  },
+  "devDependencies": {
+    "@types/node": "^7.0.18"
+  }
+}

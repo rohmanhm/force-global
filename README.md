@@ -1,4 +1,6 @@
 # 🌏 Force Global
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/rohmanhm/force-global.svg)](https://greenkeeper.io/)
 > Force place your module into global if possible
 
 # Install
